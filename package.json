@@ -1,0 +1,10 @@
+{
+  "name": "vscode-web",
+  "version": "0.0.1",
+  "description": "vscode that runs on the browser",
+  "main": "main.js",
+  "repository": "https://github.com/ameerthehacker/vscode-web.git",
+  "author": "ameerthehacker",
+  "license": "MIT",
+  "private": true
+}
