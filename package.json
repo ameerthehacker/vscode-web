@@ -3,8 +3,13 @@
   "version": "0.0.1",
   "description": "vscode that runs on the browser",
   "main": "main.js",
+  "scripts": {
+    "preinstall": "sh ./scripts/preinstall.sh",
+    "build": "sh ./scripts/build.sh"
+  },
   "repository": "https://github.com/ameerthehacker/vscode-web.git",
   "author": "ameerthehacker",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "devDependencies": {}
 }
